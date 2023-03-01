@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wordle1</string>
+    <string name="guesstextinput">ENTER 4 LETTER GUESS HERE!</string>
+    <string name="guessButton">GUESS!</string>
+    <string name="guess_1String">GUESS #1</string>
+    <string name="firstguessdisplay" />
+    <string name="guess_1StringCheck">GUESS #1 CHECK</string>
+    <string name="guess_2String">GUESS #2</string>
+    <string name="guess_2StringCheck">GUESS #2 CHECK</string>
+    <string name="guess_3String">GUESS #3</string>
+    <string name="guess_3StringCheck">GUESS #3 CHECK</string>
+    <string name="guess_4StringCheck">GUESS #4</string>
+</resources>
