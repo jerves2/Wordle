@@ -30,9 +30,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented features: https://github.com/jerves2/SimpleToDo/blob/main/walkthrough.gif
 
 <img src='walkthrough2.gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with ... Canva at Canva.com
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
